@@ -1,5 +1,5 @@
 # solarium
-![Solarium Logo](https://i.postimg.cc/7hkPvw6q/solarium-black.png =128x32)
+![](https://i.postimg.cc/7hkPvw6q/solarium-black.png | width=100)
 
 Solarium is a simple app I built while learning React Native. It shows a carousel of the planets of our Solar System with some basic information.
 
