@@ -4,7 +4,7 @@ Solarium is a simple app I built while learning React Native. It shows a carouse
 
 The app is built using Expo CLI.
 
-# How to run?
+### How to run?
 - cd into the project directory
 - npm start
 - Scan QR using the Expo app.
