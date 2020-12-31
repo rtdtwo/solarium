@@ -3,6 +3,8 @@
 Solarium is a simple app I built while learning React Native. It shows a carousel of the planets of our Solar System with some basic information.
 
 The app is built using Expo CLI.
+### Try it out
+https://expo.io/@rtficial/projects/solarium
 
 ### How to run?
 - cd into the project directory
